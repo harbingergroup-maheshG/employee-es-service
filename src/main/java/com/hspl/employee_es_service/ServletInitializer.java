@@ -1,4 +1,4 @@
-package com.hspl.employeeesservice;
+package com.hspl.employee_es_service;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
